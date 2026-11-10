@@ -6,10 +6,9 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 
 ## 👤 Identitas Mahasiswa
 
-- **Nama:** [Isi Nama Lengkap Kamu]
+- **Nama:** Arfian Dzaki Izza Rabbani
 - **NIM:** 252410102014
-- **Kelas:** [Isi Kelas Kamu, misal: PWEB B]
-- **Repository:** [UTS_PWEB_252410102014](https://github.com/ArfianYanPian/UTS_PWEB_252410102014)
+- **Kelas:** PWEB A
 
 ---
 
@@ -29,7 +28,7 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 - **Templating Engine:** Laravel Blade
 - **Styling:** Tailwind CSS (via CDN)
 - **Font:** Google Fonts (Poppins)
-- **Icons & Assets:** F1 Official SVG Asset
+- **Icons & Assets:** F1 Official LOGO Asset
 
 ---
 
@@ -52,10 +51,3 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 ![Halaman Profile](public/images/profile.png)
 
 ---
-
-## 🚀 Cara Menjalankan Project
-
-1. **Clone repository ini:**
-    ```bash
-    git clone [https://github.com/ArfianYanPian/UTS_PWEB_252410102014.git](https://github.com/ArfianYanPian/UTS_PWEB_252410102014.git)
-    ```
