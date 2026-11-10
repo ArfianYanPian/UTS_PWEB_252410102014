@@ -4,7 +4,7 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 
 ---
 
-## 👤 Identitas Mahasiswa
+## 👤 Identitas
 
 - **Nama:** Arfian Dzaki Izza Rabbani
 - **NIM:** 252410102014
@@ -22,7 +22,7 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 
 ---
 
-## 🛠️ Teknologi & Tools
+## 🛠️ Tools
 
 - **Framework:** PHP Laravel 11
 - **Templating Engine:** Laravel Blade
@@ -38,7 +38,7 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 
 ![Halaman Login](public/images/login.png)
 
-### 2. Halaman Dashboard Telemetry
+### 2. Halaman Dashboard
 
 ![Halaman Dashboard](public/images/dashboard.png)
 
@@ -46,7 +46,7 @@ Website pengelolaan riwayat balapan Formula 1 dan pemantauan telemetri musiman y
 
 ![Halaman Race Log](public/images/pengelolaan.png)
 
-### 4. Halaman Strategist Profile
+### 4. Halaman Profile
 
 ![Halaman Profile](public/images/profile.png)
 
